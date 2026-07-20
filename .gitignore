@@ -1,0 +1,33 @@
+# Datasets (downloaded separately)
+data/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Generated images and presentations
+*.png
+*.pptx
+
+# Tabular results
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+venv/
+env/
